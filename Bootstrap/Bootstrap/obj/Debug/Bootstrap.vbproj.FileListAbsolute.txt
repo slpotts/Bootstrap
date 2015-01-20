@@ -1,0 +1,9 @@
+C:\Users\Steven\Documents\GitHub\Bootstrap\Bootstrap\Bootstrap\bin\Bootstrap.dll.config
+C:\Users\Steven\Documents\GitHub\Bootstrap\Bootstrap\Bootstrap\bin\Bootstrap.dll
+C:\Users\Steven\Documents\GitHub\Bootstrap\Bootstrap\Bootstrap\bin\Bootstrap.pdb
+C:\Users\Steven\Documents\GitHub\Bootstrap\Bootstrap\Bootstrap\bin\Bootstrap.xml
+C:\Users\Steven\Documents\GitHub\Bootstrap\Bootstrap\Bootstrap\obj\Debug\Bootstrap.Resources.resources
+C:\Users\Steven\Documents\GitHub\Bootstrap\Bootstrap\Bootstrap\obj\Debug\Bootstrap.vbproj.GenerateResource.Cache
+C:\Users\Steven\Documents\GitHub\Bootstrap\Bootstrap\Bootstrap\obj\Debug\Bootstrap.dll
+C:\Users\Steven\Documents\GitHub\Bootstrap\Bootstrap\Bootstrap\obj\Debug\Bootstrap.xml
+C:\Users\Steven\Documents\GitHub\Bootstrap\Bootstrap\Bootstrap\obj\Debug\Bootstrap.pdb
